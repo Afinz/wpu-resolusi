@@ -8,3 +8,4 @@ Repo baru
 @
 -c
 1
+tidak 
